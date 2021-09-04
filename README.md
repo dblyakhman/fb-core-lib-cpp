@@ -144,6 +144,8 @@ application levels will remain unchanged and will be easily ported.<o:p></o:p></
 <p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>Currently, the
 library versions for Java and C+<span class=GramE>+(</span>Linux) are
 implemented.<o:p></o:p></span></p>
+  
+<a href="https://github.com/dblyakhman/fb-core-lib-java">fb-core-lib-java</a>
 
 </div>
 
