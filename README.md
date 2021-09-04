@@ -14,10 +14,6 @@ class=SpellE>Starikov</span> <o:p></o:p></span></p>
 <p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>Technology of functional blocks (<span class=SpellE>fb</span>-core-lib system library) - programming
 technology for multitasking applications.<o:p></o:p></span></p>
 
-<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>You can
-connect this library to your project (fb-core-lib.jar) from the /dist folder and
-use it.<o:p></o:p></span></p>
-
 <p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>Developers
 of multitasking applications (including real-time ones) often face the problem
 of exchanging events and data between different threads and clearly
