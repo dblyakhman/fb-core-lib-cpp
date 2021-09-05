@@ -1,13 +1,10 @@
-#ifndef SYS_H
-#define SYS_H
+#ifndef FBCORELIB_H
+#define FBCORELIB
 
-//------------------------------------------------------------------------------------------------ 
-// файл sys.h 
-//------------------------------------------------------------------------------------------------ 
 #include "FuncBlock.h"
 #include "ThreadPool.h"
 #include "MultiThreadFBExecutor.h"
 #include "FBTimerType.h"
 
-#endif /* SYS_H */
+#endif /* FBCORELIB_H */
 
